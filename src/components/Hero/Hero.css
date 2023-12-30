@@ -73,7 +73,7 @@
     height: 100%;
 }
 
- @media(max-width:640px){
+ @media(max-width:600px){
     .hero-container{
         margin-top: 2rem;
     }
@@ -82,8 +82,8 @@
         line-height: 3rem;
     }
     .image-container{
-        width: 95%;
-        height: 25rem;
+        width: auto;
+        height: 10rem;
     }
     .stats{
         justify-content: center;

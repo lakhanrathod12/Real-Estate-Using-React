@@ -18,7 +18,7 @@ const Footer =()=>{
                 {/* right side */}
                 <div className="flexColStart f-right">
                     <span className="primaryText">Information</span>
-                    <span>Thatwade 411033, Pimpri-Chinchwad, Pune-12</span>
+                    <span>Thatwade, Pimpri-Chinchwad, Pune-12</span>
                     <div className="flexCenter f-menu">
                         <span>Property</span>
                         <span>Services</span>

@@ -60,7 +60,7 @@
     scale: 0.8;
     
 }
-@media (max-width:1024px){
+@media (max-width:640px){
     .c-container{
         flex-direction: column;
 

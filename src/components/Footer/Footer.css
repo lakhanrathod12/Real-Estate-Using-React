@@ -1,3 +1,8 @@
+.f-wrapper{
+    background: rgb(14, 105, 180);
+    color:black;
+}
+
 .f-container{
     justify-content: space-between;
 }
